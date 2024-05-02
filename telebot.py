@@ -58,7 +58,7 @@ async def helper(message: types.Message):
     A handler to display the help menu.
     """
     help_command = """
-    Hi There, I'm chatGPT Telegram bot created by PWskills! Please follow these commands - 
+    Hi There, I'm chatGPT Telegram bot created by VIVEK! Please follow these commands - 
     /start - to start the conversation
     /clear - to clear the past conversation and context.
     /help - to get this help menu.
