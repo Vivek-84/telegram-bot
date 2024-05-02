@@ -38,7 +38,7 @@ async def welcome(message: types.Message):
     """
     This handler receives messages with `/start` or  `/help `command
     """
-    await message.reply("Hi\nI am Tele Bot!\Created by pwskills. How can i assist you?")
+    await message.reply("Hi\nI am Tele Bot!\Created by VIVEK. How can i assist you?")
 
 
 
